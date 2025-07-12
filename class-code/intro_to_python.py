@@ -27,3 +27,51 @@ print(type(True))
 print(False)
 
 
+
+# Javascript we have null
+# Python we have None
+
+my_insurance = None
+
+print(my_insurance)
+
+
+
+# f string
+
+my_student = "Sayed"
+
+print(f"Good morning {my_student}")
+
+
+
+# operations
+
+print(5+5)
+
+print(5*5)
+
+print(11%3)
+
+print(5**3)
+
+
+my_scentence = '''
+Line 1
+Line 2
+Line 3
+'''
+
+print(my_scentence)
+
+
+
+'''
+Multi Line Comment
+'''
+
+
+
+def print_name():
+
+    print("Omar")
